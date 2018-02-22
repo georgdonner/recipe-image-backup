@@ -1,0 +1,16 @@
+{
+  "name": "recipe-backup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Georg Donner",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "fs-extra": "^5.0.0",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}

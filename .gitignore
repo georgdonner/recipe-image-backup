@@ -1,0 +1,7 @@
+# Generated
+downloaded.json
+images
+node_modules
+
+# Other
+.env
